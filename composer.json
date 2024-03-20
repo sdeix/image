@@ -1,0 +1,8 @@
+{
+    "name": "sdeix/image",
+    "description": "for images",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
